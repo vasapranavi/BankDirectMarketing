@@ -1,4 +1,5 @@
 #Bank Direct Marketing
+
 In this project, we will be using the pickle_dump_model to predict the probability of a customer subscribe to a bank direct marketing campaign.
 Have analysed the data and created a model to predict the probability of a customer subscribing to a bank direct marketing campaign.
 
